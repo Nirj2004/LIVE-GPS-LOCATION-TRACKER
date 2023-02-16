@@ -45,4 +45,4 @@ You can open your browser to following URLs:
 # Contributing
 * If you want to contribute to the project, first start by creating a Issue or choosing one from the existing issue.
 * Fork the repo, create a new branch with your fix and send a Pull Request.
-* Alternatively, you can mail me at _raseelbhagat [at] gmail [dot] com_ if you want to get involved.
+* Alternatively, you can mail me at [E-mail] nirjharbiswas2004@gmail.com if you want to get involved.
